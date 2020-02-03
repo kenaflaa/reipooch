@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thookoobai.markus-petrykowski.de/sitemap.xml
